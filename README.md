@@ -487,7 +487,7 @@ export default ContactScreen;
             "type": "image/png"
         },
         {
-            "src": "logo.png",
+            "src": "   ",
             "sizes": "512x512",
             "type": "image/png"
         }
